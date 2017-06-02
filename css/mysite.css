@@ -1,8 +1,8 @@
 body{
 
    margin:0;
-   animation: fadeIn 1.5s ease 0s 1 normal;
-   -webkit-animation: fadeIn 1.5s ease 0s 1 normal;
+   animation: fadeIn 1.0s ease 0s 1 normal;
+   -webkit-animation: fadeIn 1.0s ease 0s 1 normal;
    background-color:white;
 
 }
@@ -141,10 +141,11 @@ a {
 #title {
 
       position:absolute;
-      top:-20px;
+      top:-5px;
       left:95px;
-      font-size:200%;
-      font-family:'Makinas-Scrap-5', cursive;
+      font-size:150%;
+      font-weight: 200;
+      font-family:'Hiragino Sans', cursive;
 
   }
 #title:hover {
@@ -159,9 +160,10 @@ a {
 
       position:absolute;
       top:15px;
-      left:790px;
+      left:830px;
       font-size:100%;
-      font-family:'Meiryo', cursive;
+      font-weight: 200;
+      font-family:'Hiragino Sans', cursive;
 
   }
 #about_line {
@@ -187,9 +189,10 @@ a {
 
       position:absolute;
       top:15px;
-      left:915px;
+      left:965px;
       font-size:100%;
-      font-family:'Meiryo', cursive;
+      font-weight: 200;
+      font-family:'Hiragino Sans', cursive;
 
   }
 #portfolio_line {
@@ -210,13 +213,15 @@ a {
 
   }
 
-#main_contact {
+/*#main_contact {
 
       position:absolute;
       top:15px;
       left:1045px;
       font-size:100%;
-      font-family:'Meiryo', cursive;
+      font-weight: 200;
+      font-weight: 200;
+      font-family:'Hiragino Sans', cursive;
 
   }
 #contact_line{
@@ -236,7 +241,7 @@ a {
       left:-7px;
       width: 75px;
 
-}
+}*/
 
 #tag1{
 
@@ -247,7 +252,8 @@ a {
   height:25px;
   background: rgb(120,240,255);
   font-size:110%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 
 }
@@ -261,7 +267,8 @@ a {
   height:25px;
   background: rgb(120,240,255);
   font-size:110%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 
 }
@@ -275,7 +282,8 @@ a {
   height:20px;
   background: rgb(120,240,255);
   font-size:80%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 
 }
@@ -289,7 +297,8 @@ a {
   height:20px;
   background: rgb(120,240,255);
   font-size:80%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 
 }
@@ -303,7 +312,8 @@ a {
   height:25px;
   background: rgb(120,240,255);
   font-size:100%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 
 }
@@ -317,7 +327,8 @@ a {
   height:20px;
   background: rgb(120,240,255);
   font-size:80%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 
 }

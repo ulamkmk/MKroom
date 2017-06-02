@@ -7,7 +7,8 @@
   width:550px;
   height:200px;
   font-size:150%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 
 }
@@ -98,7 +99,8 @@
   top:640px;
   left:320px;
   font-size:130%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 }
 #artext1_line{
@@ -117,7 +119,8 @@
   top:680px;
   left:320px;
   font-size:95%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 }
 
@@ -127,7 +130,8 @@
   top:820px;
   left:320px;
   font-size:130%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 }
 #artext2_line{
@@ -146,7 +150,8 @@
   top:850px;
   left:320px;
   font-size:95%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 }
 
@@ -156,7 +161,8 @@
   top:1030px;
   left:320px;
   font-size:130%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 }
 #artext3_line{
@@ -175,6 +181,7 @@
   top:1060px;
   left:320px;
   font-size:95%;
-  font-family:'Meiryo', cursive;
+  font-weight: 200;
+  font-family:'Hiragino Sans', cursive;
 
 }

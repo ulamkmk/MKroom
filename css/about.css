@@ -10,6 +10,17 @@
     }
 
 
+#skills{
+
+          position:absolute;
+          top:370px;
+          left:480px;
+          width:320px;
+          height:270px;
+
+        }
+
+
 #prftext{
 
           position:absolute;
@@ -18,7 +29,8 @@
           width:900px;
           height:500px;
           font-size:100%;
-          font-family:'Meiryo', cursive;
+          font-weight: 200;
+          font-family:'Hiragino Sans', cursive;
 
     }
 
@@ -39,8 +51,9 @@
           left:135px;
           width:500px;
           height:40px;
+          font-weight: 200;
           background:  rgb(220,240,255);
-          font-family:'Meiryo', cursive;
+          font-family:'Hiragino Sans', cursive;
 
 }
 #skills_2{
@@ -60,8 +73,9 @@
           left:670px;
           width:475px;
           height:40px;
+          font-weight: 200;
           background:  rgb(220,240,255);
-          font-family: 'Makinas-Scrap-5';
+          font-family: 'Hiragino Sans';
 
 }
 #skills_3{
@@ -81,8 +95,9 @@
           left:135px;
           width:500px;
           height:40px;
+          font-weight: 200;
           background:  rgb(220,240,255);
-          font-family: 'Makinas-Scrap-5';
+          font-family: 'Hiragino Sans';
 
 }
 #skills_4{
@@ -102,8 +117,9 @@
           left:670px;
           width:475px;
           height:40px;
+          font-weight: 200;
           background:  rgb(220,240,255);
-          font-family: 'Makinas-Scrap-5';
+          font-family: 'Hiragino Sans';
 
 }
 #skills_5{
@@ -123,8 +139,9 @@
           left:135px;
           width:500px;
           height:40px;
+          font-weight: 200;
           background:  rgb(220,240,255);
-          font-family: 'Makinas-Scrap-5';
+          font-family: 'Hiragino Sans';
 
 }
 #skills_6{
@@ -144,8 +161,9 @@
           left:670px;
           width:475px;
           height:40px;
+          font-weight: 200;
           background:  rgb(220,240,255);
-          font-family: 'Makinas-Scrap-5';
+          font-family: 'Hiragino Sans';
 
 }
 #skills_7{
@@ -165,8 +183,9 @@
           left:135px;
           width:500px;
           height:40px;
+          font-weight: 200;
           background:  rgb(220,240,255);
-          font-family: 'Makinas-Scrap-5';
+          font-family: 'Hiragino Sans';
 
 }
 #skills_8{
@@ -186,7 +205,8 @@
           left:670px;
           width:475px;
           height:40px;
+          font-weight: 200;
           background:  rgb(220,240,255);
-          font-family: 'Makinas-Scrap-5';
+          font-family: 'Hiragino Sans';
 
 }

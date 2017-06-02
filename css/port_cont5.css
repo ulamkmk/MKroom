@@ -1,0 +1,191 @@
+
+#work_name{
+
+  position:absolute;
+  top:550px;
+  left:400px;
+  width:650px;
+  height:200px;
+  font-size:150%;
+  font-family:'Meiryo', cursive;
+
+
+}
+#work_photo_icon{
+
+  position:absolute;
+  top:90px;
+  left:280px;
+  width:700px;
+  height:450px;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 300ms 0s ease;
+
+}
+
+#work_photo2_icon{
+
+  position:absolute;
+  top:655px;
+  left:50px;
+  width:450px;
+  height:700px;
+  transition: all 300ms 0s ease;
+
+}
+
+#work_photo3_icon{
+
+  position:absolute;
+  top:410px;
+  left:50px;
+  width:160px;
+  height:115px;
+  opacity: 0.4;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 300ms 0s ease;
+}
+
+#work_photo4_icon{
+
+  position:absolute;
+  top:90px;
+  left:1050px;
+  width:140px;
+  height:120px;
+  opacity: 0.4;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 300ms 0s ease;
+}
+
+#work_photo5_icon{
+
+  position:absolute;
+  top:230px;
+  left:1070px;
+  width:100px;
+  height:140px;
+  opacity: 0.4;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 300ms 0s ease;
+}
+
+#artext0{
+
+  position: absolute;
+  top:550px;
+  left:520px;
+  font-size:130%;
+  font-family:'Meiryo', cursive;
+
+}
+#artext0_line{
+
+  position: absolute;
+  top:577px;
+  left:520px;
+  width:680px;
+  height:2px;
+  background: rgb(100,200,255);
+
+}
+#artext_honbun0{
+
+  position: absolute;
+  top:580px;
+  left:520px;
+  font-size:95%;
+  font-family:'Meiryo', cursive;
+
+}
+
+#artext{
+
+  position: absolute;
+  top:650px;
+  left:520px;
+  font-size:130%;
+  font-family:'Meiryo', cursive;
+
+}
+#artext1_line{
+
+  position: absolute;
+  top:677px;
+  left:520px;
+  width:680px;
+  height:2px;
+  background: rgb(100,200,255);
+
+}
+#artext_honbun{
+
+  position: absolute;
+  top:680px;
+  left:520px;
+  font-size:95%;
+  font-family:'Meiryo', cursive;
+
+}
+
+#artext2{
+
+  position: absolute;
+  top:760px;
+  left:520px;
+  font-size:130%;
+  font-family:'Meiryo', cursive;
+
+}
+#artext2_line{
+
+  position: absolute;
+  top:787px;
+  left:520px;
+  width:680px;
+  height:2px;
+  background: rgb(100,200,255);
+
+}
+#artext_honbun2{
+
+  position: absolute;
+  top:790px;
+  left:520px;
+  font-size:95%;
+  font-family:'Meiryo', cursive;
+
+}
+
+#artext3{
+
+  position: absolute;
+  top:980px;
+  left:520px;
+  font-size:130%;
+  font-family:'Meiryo', cursive;
+
+}
+#artext3_line{
+
+  position: absolute;
+  top:1005px;
+  left:520px;
+  width:680px;
+  height:2px;
+  background: rgb(100,200,255);
+
+}
+#artext_honbun3{
+
+  position: absolute;
+  top:1010px;
+  left:520px;
+  font-size:95%;
+  font-family:'Meiryo', cursive;
+
+}

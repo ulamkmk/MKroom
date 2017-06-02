@@ -1,0 +1,180 @@
+
+#work_wim{
+
+  position:absolute;
+  top:550px;
+  left:400px;
+  width:550px;
+  height:200px;
+  font-size:150%;
+  font-family:'Meiryo', cursive;
+
+
+}
+
+#work_wim_icon{
+
+  position:absolute;
+  top:90px;
+  left:250px;
+  width:750px;
+  height:450px;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 200ms 0s ease;
+
+}
+#work_wim2_icon{
+
+  position:absolute;
+  top:250px;
+  left:50px;
+  width:160px;
+  height:100px;
+  opacity: 0.5;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 200ms 0s ease;
+
+}
+#work_wim3_icon{
+
+  position:absolute;
+  top:410px;
+  left:50px;
+  width:160px;
+  height:100px;
+  opacity: 0.5;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 200ms 0s ease;
+
+}
+#work_wim4_icon{
+
+  position:absolute;
+  top:90px;
+  left:1050px;
+  width:160px;
+  height:100px;
+  opacity: 0.5;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 200ms 0s ease;
+
+}
+#work_wim5_icon{
+
+  position:absolute;
+  top:230px;
+  left:1050px;
+  width:160px;
+  height:100px;
+  opacity: 0.5;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 200ms 0s ease;
+
+}
+
+#work_wim6_icon{
+
+  position:absolute;
+  top:380px;
+  left:1050px;
+  width:160px;
+  height:100px;
+  opacity: 0.5;
+  cursor: pointer;
+  cursor: hand;
+  transition: all 200ms 0s ease;
+
+}
+
+
+#artext{
+
+  position: absolute;
+  top:640px;
+  left:320px;
+  font-size:130%;
+  font-family:'Meiryo', cursive;
+
+}
+#artext1_line{
+
+  position: absolute;
+  top:670px;
+  left:320px;
+  width:680px;
+  height:2px;
+  background: rgb(100,200,255);
+
+}
+#artext_honbun{
+
+  position: absolute;
+  top:680px;
+  left:320px;
+  font-size:95%;
+  font-family:'Meiryo', cursive;
+
+}
+
+#artext2{
+
+  position: absolute;
+  top:820px;
+  left:320px;
+  font-size:130%;
+  font-family:'Meiryo', cursive;
+
+}
+#artext2_line{
+
+  position: absolute;
+  top:845px;
+  left:320px;
+  width:680px;
+  height:2px;
+  background: rgb(100,200,255);
+
+}
+#artext_honbun2{
+
+  position: absolute;
+  top:850px;
+  left:320px;
+  font-size:95%;
+  font-family:'Meiryo', cursive;
+
+}
+
+#artext3{
+
+  position: absolute;
+  top:1030px;
+  left:320px;
+  font-size:130%;
+  font-family:'Meiryo', cursive;
+
+}
+#artext3_line{
+
+  position: absolute;
+  top:1057px;
+  left:320px;
+  width:680px;
+  height:2px;
+  background: rgb(100,200,255);
+
+}
+#artext_honbun3{
+
+  position: absolute;
+  top:1060px;
+  left:320px;
+  font-size:95%;
+  font-family:'Meiryo', cursive;
+
+}

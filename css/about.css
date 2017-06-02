@@ -1,0 +1,192 @@
+
+#prf{
+
+          position:absolute;
+          top:115px;
+          left:170px;
+          width:220px;
+          height:220px;
+
+    }
+
+
+#prftext{
+
+          position:absolute;
+          top:120px;
+          left:427px;
+          width:900px;
+          height:500px;
+          font-size:100%;
+          font-family:'Meiryo', cursive;
+
+    }
+
+#skills_1{
+
+          position:absolute;
+          top:351px;
+          left:95px;
+          width:40px;
+          height:40px;
+
+
+    }
+#skills_1g{
+
+          position:absolute;
+          top:351px;
+          left:135px;
+          width:500px;
+          height:40px;
+          background:  rgb(220,240,255);
+          font-family:'Meiryo', cursive;
+
+}
+#skills_2{
+
+          position:absolute;
+          top:351px;
+          left:635px;
+          width:40px;
+          height:40px;
+          background:  rgb(20,165,235);
+
+}
+#skills_2g{
+
+          position:absolute;
+          top:351px;
+          left:670px;
+          width:475px;
+          height:40px;
+          background:  rgb(220,240,255);
+          font-family: 'Makinas-Scrap-5';
+
+}
+#skills_3{
+
+          position:absolute;
+          top:392px;
+          left:95px;
+          width:40px;
+          height:40px;
+          background:  white;
+
+}
+#skills_3g{
+
+          position:absolute;
+          top:392px;
+          left:135px;
+          width:500px;
+          height:40px;
+          background:  rgb(220,240,255);
+          font-family: 'Makinas-Scrap-5';
+
+}
+#skills_4{
+
+          position:absolute;
+          top:392px;
+          left:635px;
+          width:40px;
+          height:40px;
+          background:  rgb(20,165,235);
+
+}
+#skills_4g{
+
+          position:absolute;
+          top:392px;
+          left:670px;
+          width:475px;
+          height:40px;
+          background:  rgb(220,240,255);
+          font-family: 'Makinas-Scrap-5';
+
+}
+#skills_5{
+
+          position:absolute;
+          top:433px;
+          left:95px;
+          width:40px;
+          height:40px;
+          background:  rgb(20,165,235);
+
+}
+#skills_5g{
+
+          position      :absolute;
+          top:433px;
+          left:135px;
+          width:500px;
+          height:40px;
+          background:  rgb(220,240,255);
+          font-family: 'Makinas-Scrap-5';
+
+}
+#skills_6{
+
+          position:absolute;
+          top:433px;
+          left:635px;
+          width:40px;
+          height:40px;
+          background:  rgb(20,165,235);
+
+}
+#skills_6g{
+
+          position:absolute;
+          top:433px;
+          left:670px;
+          width:475px;
+          height:40px;
+          background:  rgb(220,240,255);
+          font-family: 'Makinas-Scrap-5';
+
+}
+#skills_7{
+
+          position:absolute;
+          top:474px;
+          left:95px;
+          width:40px;
+          height:40px;
+          background:  rgb(20,165,235);
+
+}
+#skills_7g{
+
+          position:absolute;
+          top:474px;
+          left:135px;
+          width:500px;
+          height:40px;
+          background:  rgb(220,240,255);
+          font-family: 'Makinas-Scrap-5';
+
+}
+#skills_8{
+
+          position:absolute;
+          top:474px;
+          left:635px;
+          width:40px;
+          height:40px;
+          background:  white;
+
+}
+#skills_8g{
+
+          position:absolute;
+          top:474px;
+          left:670px;
+          width:475px;
+          height:40px;
+          background:  rgb(220,240,255);
+          font-family: 'Makinas-Scrap-5';
+
+}

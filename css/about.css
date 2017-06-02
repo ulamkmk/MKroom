@@ -29,8 +29,8 @@
           width:900px;
           height:500px;
           font-size:100%;
-          font-weight: 200;
-          font-family:'Hiragino Sans', cursive;
+          font-weight: 100;
+          font-family:'Meiryo', cursive;
 
     }
 
@@ -51,9 +51,9 @@
           left:135px;
           width:500px;
           height:40px;
-          font-weight: 200;
+          font-weight: 100;
           background:  rgb(220,240,255);
-          font-family:'Hiragino Sans', cursive;
+          font-family:'Meiryo', cursive;
 
 }
 #skills_2{
@@ -73,9 +73,9 @@
           left:670px;
           width:475px;
           height:40px;
-          font-weight: 200;
+          font-weight: 100;
           background:  rgb(220,240,255);
-          font-family: 'Hiragino Sans';
+          font-family: 'Meiryo';
 
 }
 #skills_3{
@@ -97,7 +97,7 @@
           height:40px;
           font-weight: 200;
           background:  rgb(220,240,255);
-          font-family: 'Hiragino Sans';
+          font-family: 'Meiryo';
 
 }
 #skills_4{

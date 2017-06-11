@@ -246,86 +246,75 @@ a {
 #tag1{
 
   position: absolute;
-  top:122px;
-  left:192px;
-  width:62px;
+  top:440px;
+  left:110px;
+  width:162px;
   height:25px;
-  background: rgb(120,240,255);
-  font-size:110%;
+  font-size:80%;
   font-weight: 200;
   font-family:'Meiryo', cursive;
 
 
 }
-
 #tag2{
 
   position: absolute;
-  top:442px;
-  left:454px;
+  top:440px;
+  left:670px;
   width:210px;
   height:25px;
-  background: rgb(120,240,255);
-  font-size:110%;
+  font-size:80%;
   font-weight: 200;
   font-family:'Meiryo', cursive;
 
 
 }
-
 #tag3{
 
   position: absolute;
-  top:123px;
-  left:722px;
-  width:130px;
+  top:800px;
+  left:110px;
+  width:230px;
   height:20px;
-  background: rgb(120,240,255);
   font-size:80%;
   font-weight: 200;
   font-family:'Meiryo', cursive;
 
 
 }
-
 #tag4{
 
   position: absolute;
-  top:283px;
-  left:722px;
-  width:45px;
+  top:800px;
+  left:390px;
+  width:245px;
   height:20px;
-  background: rgb(120,240,255);
   font-size:80%;
   font-weight: 200;
   font-family:'Meiryo', cursive;
 
 
 }
-
 #tag5{
 
   position: absolute;
-  top:440px;
-  left:190px;
+  top:800px;
+  left:670px;
   width:120px;
   height:25px;
-  background: rgb(120,240,255);
-  font-size:100%;
+  font-size:80%;
   font-weight: 200;
   font-family:'Meiryo', cursive;
 
 
 }
-
 #tag6{
 
   position: absolute;
-  top:122px;
-  left:882px;
+  top:800px;
+  left:950px;
   width:60px;
-  height:20px;
-  background: rgb(120,240,255);
+  height:25px;
   font-size:80%;
   font-weight: 200;
   font-family:'Meiryo', cursive;

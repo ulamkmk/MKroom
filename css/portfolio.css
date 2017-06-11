@@ -3,7 +3,7 @@
 
     position: absolute;
     top:460px;
-    left:110px;
+    left:70px;
     width:520px;
     height:50px;
     font-size:140%;
@@ -16,7 +16,7 @@
 
   position: absolute;
   top:458px;
-  left:670px;
+  left:630px;
   width:250px;
   height:0px;
   font-size:150%;
@@ -29,7 +29,7 @@
 
   position: absolute;
   top:820px;
-  left:110px;
+  left:70px;
   width:300px;
   height:0px;
   font-size:130%;
@@ -44,7 +44,7 @@
 
     position: absolute;
     top:820px;
-    left:390px;
+    left:350px;
     width:148px;
     height:0px;
     font-size:120%;
@@ -59,7 +59,7 @@
   position: absolute;
   /*border: 5px solid rgb(215,240,255) ;*/
   top:817px;
-  left:670px;
+  left:630px;
   width:240px;
   height:0px;
   font-size:130%;
@@ -73,8 +73,8 @@
 
   position: absolute;
   top:817px;
-  left:950px;
-  width:290px;
+  left:910px;
+  width:250px;
   height:0px;
   font-size:130%;
   font-weight: 200;
@@ -101,7 +101,7 @@
 
   position: absolute;
   top:120px;
-  left:110px;
+  left:70px;
   width:520px;
   height:310px;
   border: 1px groove ;
@@ -121,7 +121,7 @@
 
   position: absolute;
   top:120px;
-  left:670px;
+  left:630px;
   width:520px;
   height:310px;
   border: 1px groove ;
@@ -139,7 +139,7 @@
 
   position: absolute;
   top:550px;
-  left:110px;
+  left:70px;
   width:240px;
   height:240px;
   border: 1px groove ;
@@ -157,7 +157,7 @@
 
   position: absolute;
   top:550px;
-  left:390px;
+  left:350px;
   width:240px;
   height:240px;
   border: 1px groove ;
@@ -175,7 +175,7 @@
 
   position: absolute;
   top:550px;
-  left:670px;
+  left:630px;
   width:240px;
   height:240px;
   border: 1px groove ;
@@ -193,7 +193,7 @@
 
   position: absolute;
   top:550px;
-  left:950px;
+  left:910px;
   width:240px;
   height:240px;
   border: 1px groove ;
@@ -211,7 +211,7 @@
 
   position: absolute;
   top:465px;
-  left:90px;
+  left:50px;
   width:40px;
   height:40px;
 
@@ -220,7 +220,7 @@
 
   position: absolute;
   top:465px;
-  left:645px;
+  left:605px;
   width:40px;
   height:40px;
 
@@ -229,7 +229,7 @@
 
   position: absolute;
   top:820px;
-  left:90px;
+  left:50px;
   width:40px;
   height:40px;
 
@@ -238,7 +238,7 @@
 
   position: absolute;
   top:820px;
-  left:370px;
+  left:330px;
   width:40px;
   height:40px;
 
@@ -248,7 +248,7 @@
 
   position: absolute;
   top:820px;
-  left:650px;
+  left:610px;
   width:40px;
   height:40px;
 
@@ -257,7 +257,7 @@
 
   position: absolute;
   top:820px;
-  left:930px;
+  left:890px;
   width:40px;
   height:40px;
 

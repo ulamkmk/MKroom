@@ -145,7 +145,7 @@ a {
       left:95px;
       font-size:150%;
       font-weight: 200;
-      font-family:'Meiryo', cursive;
+      font-family:'Hiragino Sans','Meiryo';
 
   }
 #title:hover {
@@ -163,7 +163,7 @@ a {
       left:830px;
       font-size:100%;
       font-weight: 200;
-      font-family:'Meiryo', cursive;
+      font-family:'Hiragino Sans','Meiryo';
 
   }
 #about_line {
@@ -192,7 +192,7 @@ a {
       left:965px;
       font-size:100%;
       font-weight: 200;
-      font-family:'Meiryo', cursive;
+      font-family:'Hiragino Sans','Meiryo';
 
   }
 #portfolio_line {
@@ -252,7 +252,7 @@ a {
   height:25px;
   font-size:80%;
   font-weight: 200;
-  font-family:'Meiryo', cursive;
+  font-family:'Hiragino Sans','Meiryo';
 
 
 }
@@ -265,7 +265,7 @@ a {
   height:25px;
   font-size:80%;
   font-weight: 200;
-  font-family:'Meiryo', cursive;
+  font-family: 'Hiragino Sans','Meiryo';
 
 
 }
@@ -278,7 +278,7 @@ a {
   height:20px;
   font-size:80%;
   font-weight: 200;
-  font-family:'Meiryo', cursive;
+  font-family: 'Hiragino Sans','Meiryo';
 
 
 }
@@ -291,7 +291,7 @@ a {
   height:20px;
   font-size:80%;
   font-weight: 200;
-  font-family:'Meiryo', cursive;
+  font-family:'Hiragino Sans','Meiryo';
 
 
 }
@@ -304,7 +304,7 @@ a {
   height:25px;
   font-size:80%;
   font-weight: 200;
-  font-family:'Meiryo', cursive;
+  font-family:'Hiragino Sans', 'Meiryo';
 
 
 }
@@ -317,7 +317,7 @@ a {
   height:25px;
   font-size:80%;
   font-weight: 200;
-  font-family:'Meiryo', cursive;
+  font-family:'Hiragino Sans', 'Meiryo';
 
 
 }

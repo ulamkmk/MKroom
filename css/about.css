@@ -3,9 +3,9 @@
 
           position:absolute;
           top:115px;
-          left:170px;
-          width:220px;
-          height:220px;
+          left:70px;
+          width:330px;
+          height:450px;
 
     }
 
@@ -29,7 +29,7 @@
           width:700px;
           height:500px;
           font-size:100%;
-          font-weight: 100;
+          font-weight: 200;
           font-family:'Hiragino Sans','Meiryo';
 
     }
@@ -51,7 +51,7 @@
           left:135px;
           width:500px;
           height:40px;
-          font-weight: 100;
+          font-weight: 200;
           background:  rgb(220,240,255);
           font-family:'Hiragino Sans','Meiryo';
 

@@ -57,7 +57,6 @@ a {
     opacity: 0.7;
 
 }
-
 #cont_acc2{
 
     position:absolute;
@@ -69,7 +68,6 @@ a {
     opacity: 0.7;
 
 }
-
 #cont_acc3{
 
     position:absolute;
@@ -81,7 +79,6 @@ a {
     opacity: 0.7;
 
 }
-
 #cont_acc4{
 
     position:absolute;
@@ -130,6 +127,20 @@ a {
 
 }
 
+#addres{
+
+  position:absolute;
+  top:80px;
+  left:80px;
+  width:100px;
+  height:30px;
+  font-size:130%;
+  font-weight: 200;
+  font-family:'Hiragino Sans','Meiryo';
+
+
+
+}
 
 .mainmanu{
 

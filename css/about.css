@@ -210,3 +210,25 @@
           font-family: 'Hiragino Sans','Meiryo';
 
 }
+
+#twi_icon{
+
+          position:absolute;
+          top:290px;
+          left:640px;
+          width:100px;
+          height:100px;
+
+}
+
+
+#fac_icon{
+
+          position:absolute;
+          top:302px;
+          left:720px;
+          width:70px;
+          height:70px;
+
+
+}

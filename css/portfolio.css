@@ -113,7 +113,7 @@
 #cont_photo1:hover{
 
 	transform: scale(1.03);
-filter: brightness(120%);
+filter: brightness(110%);
 
 }
 
@@ -134,7 +134,7 @@ filter: brightness(120%);
 #cont_photo2:hover{
 
 	transform: scale(1.03);
-    filter: brightness(120%);
+    filter: brightness(110%);
 
 }
 
@@ -172,7 +172,7 @@ filter: brightness(120%);
   #cont_photo4:hover{
 
 	transform: scale(1.05);
-    filter: brightness(120%);
+    filter: brightness(110%);
 
   }
 
@@ -191,7 +191,7 @@ filter: brightness(120%);
 #cont_photo5:hover{
 
 	transform: scale(1.05);
-    filter: brightness(120%);
+    filter: brightness(105%);
 
 }
 
@@ -210,7 +210,7 @@ filter: brightness(120%);
 #cont_photo6:hover{
 
 	transform: scale(1.05);
-    filter: brightness(120%);
+    filter: brightness(110%);
 
 }
 

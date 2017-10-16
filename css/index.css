@@ -118,36 +118,14 @@
 
         .cont_menuback{
 
-            position:absolute;
+            position:fixed;
             margin:0;
             top:0px;
             left:0px;
           	width:100%;
             height:65px;
-            background: rgb(245,245,245);
-
-
-        }
-        .cont_menuback2{
-
-            position:absolute;
-            width: 0;
-            height: 0;
-            border-style: solid;
-            border-width: 63px 250px 0 0;
-            border-color: #add5ff transparent transparent transparent;
-
-
-        }
-
-        .cont_menuback3{
-
-            position:absolute;
-            width: 0;
-            height: 0;
-            border-style: solid;
-            border-width: 0 0 63px 250px;
-            border-color: transparent transparent #ffffff transparent;
+            opacity:0.5;
+            /*background: rgb(245,245,245);*/
 
 
         }
@@ -155,7 +133,7 @@
         .addres{
 
           position:absolute;
-          top:80px;
+          top:70px;
           left:80px;
           width:100px;
           height:30px;
@@ -176,7 +154,7 @@
 
         .title {
 
-              position:absolute;
+              position:fixed;
               top:-7px;
               left:70px;
               font-size:150%;
@@ -194,7 +172,7 @@
 
         .main_about {
 
-              position:absolute;
+              position:fixed;
               top:15px;
               /*left:830px;*/
               left:79%;
@@ -216,7 +194,7 @@
             }
         .main_about:hover  > .about_line{
 
-                position: absolute;
+                position:absolute;
                 left:-7px;
                 width:60px;
 
@@ -224,7 +202,7 @@
 
         .main_portfolio {
 
-              position:absolute;
+              position:fixed;
               top:15px;
               /*left:965px;*/
               left:89%;
@@ -262,7 +240,8 @@
           font-size:140%;
           font-family:'Hiragino Sans','Meiryo', cursive;
           font-weight: 200;
-          transition: all 300ms 0s ease;
+          color: #19070B;
+          transition: all 90ms ease;
 
         }
       .cont_2{
@@ -274,8 +253,9 @@
         height:0px;
         font-size:150%;
         font-weight: 200;
+        color: #19070B;
         font-family:'Hiragino Sans','Meiryo', cursive;
-        transition: all 300ms ease;
+        transition: all 90ms ease;
 
       }
       .cont_3{
@@ -287,9 +267,10 @@
         height:0px;
         font-size:130%;
         font-weight: 200;
+        color: #19070B;
         font-family:'Hiragino Sans','Meiryo', cursive;
         background:rgb(120,240,255);
-        transition: all 300ms ease;
+        transition: all 90ms ease;
 
 
       }
@@ -302,8 +283,9 @@
           height:0px;
           font-size:120%;
           font-weight: 200;
+          color: #19070B;
           font-family:'Hiragino Sans','Meiryo', cursive;
-          transition: all 300ms ease;
+          transition: all 90ms ease;
 
 
         }
@@ -317,8 +299,9 @@
         height:0px;
         font-size:130%;
         font-weight: 200;
+        color: #19070B;
         font-family:'Hiragino Sans','Meiryo', cursive;
-        transition: all 300ms ease;
+        transition: all 90ms ease;
 
 
       }
@@ -331,33 +314,28 @@
         height:0px;
         font-size:130%;
         font-weight: 200;
+        color: #19070B;
         font-family:'Hiragino Sans','Meiryo', cursive;
-        transition: all 300ms ease;
+        transition: all 90ms ease;
 
 
       }
+
 
 
       .cont_photo1{
 
         position: absolute;
-        float:none;
         top:120px;
         left:70px;
         width:520px;
         height:310px;
-        border: 1px groove ;
         transition: all 300ms ease;
 
 
 
           }
-      .cont_photo1:hover{
 
-          transform: scale(1.03);
-          filter: brightness(110%);
-
-      }
       .cont_photo2{
 
         position:relative;
@@ -365,35 +343,23 @@
         left:640px;
         width:520px;
         height:310px;
-        border: 1px groove ;
         transition: all 300ms ease;
 
 
 
       }
-      .cont_photo2:hover{
 
-      	transform: scale(1.03);
-          filter: brightness(110%);
-
-      }
       .cont_photo3{
 
         position: absolute;
         top:550px;
-        left:70px;
+        left:65px;
         width:240px;
         height:240px;
-        border: 1px groove ;
         transition: all 300ms ease;
 
       }
-      .cont_photo3:hover{
 
-      	transform: scale(1.05);
-          filter: brightness(105%);
-
-      }
       .cont_photo4{
 
         position: absolute;
@@ -401,16 +367,10 @@
         left:350px;
         width:240px;
         height:240px;
-        border: 1px groove ;
         transition: all 300ms ease;
 
         }
-      .cont_photo4:hover{
 
-      	transform: scale(1.05);
-        filter: brightness(110%);
-
-        }
       .cont_photo5{
 
         position: absolute;
@@ -418,33 +378,145 @@
         left:630px;
         width:240px;
         height:240px;
-        border: 1px groove ;
         transition: all 300ms ease;
 
       }
-      .cont_photo5:hover{
 
-      	transform: scale(1.05);
-          filter: brightness(105%);
-
-      }
       .cont_photo6{
 
         position: absolute;
         top:550px;
-        left:910px;
+        left:920px;
         width:240px;
         height:240px;
-        border: 1px groove ;
         transition: all 300ms ease;
 
       }
-      .cont_photo6:hover{
 
-      	transform: scale(1.05);
-          filter: brightness(110%);
 
-      }
+        .c1back_cl{
+
+            position:absolute;
+            top:100px;
+            left:50px;
+            width:560px;
+            height:440px;
+
+        }
+        .c2back_cl{
+
+            position:absolute;
+            top:100px;
+            left:620px;
+            width:560px;
+            height:420px;
+
+        }
+        .c3back_cl{
+
+            position:absolute;
+            top:530px;
+            left:50px;
+            width:270px;
+            height:340px;
+
+        }
+        .c4back_cl{
+
+            position:absolute;
+            top:530px;
+            left:330px;
+            width:280px;
+            height:340px;
+
+        }
+        .c5back_cl{
+
+            position:absolute;
+            top:530px;
+            left:620px;
+            width:265px;
+            height:340px;
+
+        }
+        .c6back_cl{
+
+            position:absolute;
+            top:530px;
+            left:900px;
+            width:280px;
+            height:340px;
+
+        }
+
+        .c1back{
+
+            position:absolute;
+            top:100px;
+            left:50px;
+            width:560px;
+            height:420px;
+            background: #FFFFFF;
+            transition: all 400ms ease;
+
+        }
+        .c2back{
+
+            position:absolute;
+            top:100px;
+            left:620px;
+            width:560px;
+            height:420px;
+            background: #FFFFFF;
+            transition: all 400ms ease;
+
+        }
+        .c3back{
+
+            position:absolute;
+            top:530px;
+            left:50px;
+            width:270px;
+            height:340px;
+            background:  #FFFFFF;
+            transition: all 400ms ease;
+
+        }
+        .c4back{
+
+            position:absolute;
+            top:530px;
+            left:330px;
+            width:280px;
+            height:340px;
+            background:  #FFFFFF;
+            transition: all 90ms ease;
+
+        }
+        .c5back{
+
+            position:absolute;
+            top:530px;
+            left:620px;
+            width:265px;
+            height:340px;
+            background: #FFFFFF;
+            transition: all 90ms ease;
+
+        }
+        .c6back{
+
+            position:absolute;
+            top:530px;
+            left:900px;
+            width:280px;
+            height:340px;
+            background:  #FFFFFF;
+            transition: all 90ms ease;
+
+        }
+
+
 
         .line1{
 
@@ -487,7 +559,7 @@
 
             position: absolute;
             top:820px;
-            left:610px;
+            left:620px;
             width:40px;
             height:40px;
 
@@ -496,12 +568,11 @@
 
             position: absolute;
             top:820px;
-            left:890px;
+            left:900px;
             width:40px;
             height:40px;
 
           }
-
 
         .tag1{
 
@@ -573,7 +644,7 @@
               position: absolute;
               top:800px;
               left:910px;
-              width:60px;
+              width:160px;
               height:25px;
               font-size:80%;
               font-weight: 200;
@@ -586,6 +657,7 @@
 
             @media screen and ( max-width:900px )
             {
+
 
 
 

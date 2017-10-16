@@ -1,183 +1,264 @@
 
 $(function(){
 
-$('#cont_photo1').mouseover(function(){
 
-      $('#cont_1').animate({
 
-        top:"375px",
-        height:"59px",
-        opacity:"0.8"
+$('.c1back_cl').mouseover(function(){
 
-      },10);
+    $('.c1back').animate({
+
+        "backgroundColor":"#3497FB"
+
+
+    },10);
 
       }).mouseout(function(){
 
-      $('#cont_1').animate({
+      $('.c1back').animate({
 
-        top:"430px",
-        height:"0px",
-        opacity:"0"
+        "backgroundColor":"#FFFFFF"
 
 
     },10);
 
   });
-$('#cont_photo2').mouseover(function(){
 
-      $('#cont_2').animate({
 
-        top:"640px",
-        height:"52px",
-        opacity:"0.8"
+  $('.c1back_cl').mouseover(function(){
+
+      $('.cont_1').animate({
+
+          "color":"#FFFFF"
+
+
+    },10);
+
+      }).mouseout(function(){
+
+      $('.cont_1').animate({
+
+        "color":"#19070B"
+
+
+    },10);
+
+
+
+    });
+
+
+$('.c2back_cl').mouseover(function(){
+
+      $('.c2back').animate({
+
+        "backgroundColor":"#3497FB"
 
 
       },10);
 
       }).mouseout(function(){
 
-      $('#cont_2').animate({
+      $('.c2back').animate({
 
-        top:"692px",
-        height:"0px",
-        opacity:"0"
+        "backgroundColor":"#FFFFFF"
 
 
     },10);
 
   });
-$('#cont_photo3').mouseover(function(){
 
-        $('#cont_3').animate({
+  $('.c2back_cl').mouseover(function(){
 
-          top:"230px",
-          height:"42px",
-          opacity:"0.8"
+      $('.cont_2').animate({
+
+          "color":"#FFFFF"
+
+
+    },10);
+
+      }).mouseout(function(){
+
+      $('.cont_2').animate({
+
+        "color":"#19070B"
+
+
+    },10);
+
+
+
+    });
+
+$('.c3back_cl').mouseover(function(){
+
+        $('.c3back').animate({
+
+        "backgroundColor":"#3497FB"
 
 
         },10);
 
         }).mouseout(function(){
 
-        $('#cont_3').animate({
+        $('.c3back').animate({
 
-          top:"270px",
-          height:"0px",
-          opacity:"0"
+        "backgroundColor":"#FFFFFF"
+
 
 
       },10);
 
     });
-$('#cont_photo4').mouseover(function(){
 
-            $('#cont_4').animate({
 
-              top:"390px",
-              height:"42px",
-              opacity:"0.8"
+    $('.c3back_cl').mouseover(function(){
+
+        $('.cont_3').animate({
+
+            "color":"#FFFFF"
+
+
+      },10);
+
+        }).mouseout(function(){
+
+        $('.cont_3').animate({
+
+          "color":"#19070B"
+
+
+      },10);
+
+
+
+      });
+
+$('.c4back_cl').mouseover(function(){
+
+            $('.c4back').animate({
+
+        "backgroundColor":"#3497FB"
 
 
             },10);
 
             }).mouseout(function(){
 
-            $('#cont_4').animate({
+            $('.c4back').animate({
 
-              top:"430px",
-              height:"0px",
-              opacity:"0"
+            "backgroundColor":"#FFFFFF"
 
 
           },10);
 
         });
-$('#cont_photo5').mouseover(function(){
 
-                    $('#cont_5').animate({
+        $('.c4back_cl').mouseover(function(){
 
-                      top:"644px",
-                      height:"50px",
-                      opacity:"0.9"
+            $('.cont_4').animate({
+
+                "color":"#FFFFF"
+
+
+          },10);
+
+            }).mouseout(function(){
+
+            $('.cont_4').animate({
+
+              "color":"#19070B"
+
+
+          },10);
+
+
+
+          });
+
+
+$('.c5back_cl').mouseover(function(){
+
+                    $('.c5back').animate({
+
+                        "backgroundColor":"#3497FB"
 
 
                     },10);
 
                     }).mouseout(function(){
 
-                    $('#cont_5').animate({
+                    $('.c5back').animate({
 
-                      top:"690px",
-                      height:"0px",
-                      opacity:"0"
+                        "backgroundColor":"#FFFFFF"
 
 
                   },10);
 
                 });
-$('#cont_photo6').mouseover(function(){
 
-                  $('#cont_6').animate({
+                $('.c5back_cl').mouseover(function(){
 
-                    top:"225px",
-                    height:"45px",
-                    opacity:"0.9"
+                    $('.cont_5').animate({
+
+                        "color":"#FFFFF"
+
+
+                  },10);
+
+                    }).mouseout(function(){
+
+                    $('.cont_5').animate({
+
+                      "color":"#19070B"
+
+
+                  },10);
+
+
+
+                  });
+
+$('.c6back_cl').mouseover(function(){
+
+                  $('.c6back').animate({
+
+                      "backgroundColor":"#3497FB"
 
                   },10);
 
                   }).mouseout(function(){
 
-                  $('#cont_6').animate({
+                  $('.c6back').animate({
 
-                    top:"270px",
-                    height:"0px",
-                    opacity:"0"
+                      "backgroundColor":"#FFFFFF"
 
 
                 },10);
 
               });
 
+              $('.c6back_cl').mouseover(function(){
+
+                  $('.cont_6').animate({
+
+                      "color":"#FFFFF"
 
 
-$('#cont_fade1').mouseover(function () {
-        $(this).animate({
-            opacity:0.2
-        },200);
+                },10);
 
-        $('#cont_rect1').animate({
-            opacity:0.7
-        },200);
+                  }).mouseout(function(){
 
-        $('#cont_ph1').animate({
-            top:"112px",
-            left:"135px",
-            width:"588px",
-            height:"580px"
-        },200);
+                  $('.cont_6').animate({
+
+                    "color":"#19070B"
 
 
-    }).mouseout(function(){
-        $(this).animate({
-            opacity:0.9
-        },200);
-
-        $('#cont_rect1').animate({
-            opacity:1,
-        },200);
-
-        $('#cont_ph1').animate({
-            top:"100px",
-            left:"135px",
-            width:"597px",
-            height:"600px"
-        },200);
+                },10);
 
 
-    }).click(function(){
-        window.location.href = 'portfolio.html';
 
-    });
+                });
+
 
 
       });

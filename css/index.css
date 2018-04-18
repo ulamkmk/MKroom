@@ -6,7 +6,6 @@
        animation: fadeIn 1.0s ease 0s 1 normal;
        -webkit-animation: fadeIn 1.0s ease 0s 1 normal;
        background-color:white;
-
     }
 
     @keyframes fadeIn {
